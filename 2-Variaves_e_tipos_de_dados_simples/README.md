@@ -1,3 +1,5 @@
+# Resumo
+
 Neste capítulo aprendemos a trabalhar com variáveis. Aprendemos a usar
 nomes descritivos para as variáveis e a resolver erros de nomes e de sintaxe
 quando surgirem. Vimos o que são strings e como exibi-las usando letras

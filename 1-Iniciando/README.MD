@@ -1,3 +1,5 @@
+# Resumo
+
 Neste capítulo aprendemos um pouco sobre Python em geral, e instalamos
 Python em seu sistema caso ainda não estivesse presente. Também
 instalamos um editor de texto para facilitar escrever código Python.
